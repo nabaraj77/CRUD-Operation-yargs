@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sita",
+    "email": "geeta@gmail.com",
+    "encPassword": "79d8da409fed717119180bedcccbbde4bc35d984bd10a1f228a1c59d3bdbba9d9ec03d645d00cc5e2f9b8c053dea45b35385487f99a181d7750a97478a3e643818701abffb109eb66a26bcb962d1a707b60f573dd779ccef83619196dacb75dcc79ef82bacd6",
+    "address1": "Balkumari"
+  },
+  {
+    "name": "Ganga",
+    "email": "ganga@gmail.com",
+    "encPassword": "490dbc182bcc762c500faa0347f7e1caa7e073f2e984544487918ed93e4996f6c7123206c649c540db534786fb64499ea13227fc7b149c789b88cf5ebc76338b6ca30dbacf914320e19f2903aa98d2b1b6a3c9c6bb77c564fefa2e2f433ab82ef517e8e5f514",
+    "address1": "USA"
+  },
+  {
+    "name": "Kopila",
+    "email": "kopila@gmail.com",
+    "encPassword": "cf8b0cf27bfecf4c71fe61530a25dc28952b336329399ab0f1719c4a7ba94702ca5d4c601aea9b4f3b5e05df01be1dc0d0e1d3739bdd1ff483b0d35252c0363ee261637f447ec9aeeb0aff06518f7b9509be567836b8e2d0eb6648a20364abdf5d167ea6",
+    "address1": "Australia"
+  }
+]
